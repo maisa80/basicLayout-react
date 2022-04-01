@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//github.com/maisa80/basicLayout-react/static/css/main.2beb3d7f.css",
-    "main.js": "//github.com/maisa80/basicLayout-react/static/js/main.fc04aaa7.js",
-    "static/js/787.a9c865a1.chunk.js": "//github.com/maisa80/basicLayout-react/static/js/787.a9c865a1.chunk.js",
-    "static/media/logo.svg": "//github.com/maisa80/basicLayout-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "//github.com/maisa80/basicLayout-react/index.html",
-    "main.2beb3d7f.css.map": "//github.com/maisa80/basicLayout-react/static/css/main.2beb3d7f.css.map",
-    "main.fc04aaa7.js.map": "//github.com/maisa80/basicLayout-react/static/js/main.fc04aaa7.js.map",
-    "787.a9c865a1.chunk.js.map": "//github.com/maisa80/basicLayout-react/static/js/787.a9c865a1.chunk.js.map"
+    "main.css": "/basicLayout-react/static/css/main.2beb3d7f.css",
+    "main.js": "/basicLayout-react/static/js/main.12c75419.js",
+    "static/js/787.a9c865a1.chunk.js": "/basicLayout-react/static/js/787.a9c865a1.chunk.js",
+    "static/media/logo.svg": "/basicLayout-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/basicLayout-react/index.html",
+    "main.2beb3d7f.css.map": "/basicLayout-react/static/css/main.2beb3d7f.css.map",
+    "main.12c75419.js.map": "/basicLayout-react/static/js/main.12c75419.js.map",
+    "787.a9c865a1.chunk.js.map": "/basicLayout-react/static/js/787.a9c865a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2beb3d7f.css",
-    "static/js/main.fc04aaa7.js"
+    "static/js/main.12c75419.js"
   ]
 }
