@@ -53,22 +53,35 @@
   flex: 1 100%;
   
 }
-h1{
-  color: var(--Primary);
-}
-.header {
+nav > * {
+  padding: 10px;
   
+}
+nav{
   height: 100px;
   display: flex;
   justify-content: space-between;
 }
-.left-header{
+h1{
+  color: var(--Primary);
+}
+.row{
+  justify-content: center;
+  margin:20px;
+  padding: 20px;
+}
+.form-check .form-check-input {
+  float: none;
+  margin-left: 1em;
+}
+.center{text-align: center;}
+.left-nav{
   display:flex;
   align-items: center;
   padding: 20px;
   gap:20px
 }
-.right-header{
+.right-nav{
   display:flex;
   align-items: center;
   gap:20px
